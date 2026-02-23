@@ -1,0 +1,14 @@
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.exe
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.deps.json
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.runtimeconfig.json
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.dll
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.pdb
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.AssemblyInfoInputs.cache
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.AssemblyInfo.cs
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.dll
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\refint\BasicConsoleIO.dll
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.pdb
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.genruntimeconfig.cache
+C:\Users\db009\AppData\SomeBac\cs\pro_cs_at\BasicConsoleIO\obj\Debug\net6.0\ref\BasicConsoleIO.dll

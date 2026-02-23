@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BasicConsoleIO/BasicConsoleIO.csproj" />
+  <Project Path="BasicDataTypes/BasicDataTypes.csproj" />
+  <Project Path="SimpleCSharpApp/SimpleCSharpApp.csproj" />
+</Solution>
